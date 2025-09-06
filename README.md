@@ -4,5 +4,5 @@
 10x10 boyutlarındaki bir tarladan, altında gizli bulunan toplam 10 tane mayına basmadan geçebilir misiniz?
 
 ## Durum
-![Dosya Boyutu](https://img.shields.io/badge/7%2C45%20KB-gray?style=flat&logo=github&laßbel=file%20size&color=green)
-![GitHub Repo Boyutu](https://img.shields.io/github/repo-size/kaansahin04/Mayin-Tarlasi?logo=github&color=green)
+![Oyun Boyutu](https://img.shields.io/badge/5%2C19%20KB-gray?style=flat&logo=github&label=game%20size&color=green)
+![Resimler Boyutu](https://img.shields.io/badge/2%2C26%20KB-gray?style=flat&logo=github&label=pic%20size&color=green)
