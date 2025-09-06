@@ -1,3 +1,4 @@
+<p align="center"><img src="mayın.png" alt="Mayın Logo" width="90" height="90"></p> 
 <h2 align="center">Mayın Tarlası</h2>
 
 ## Açıklama
