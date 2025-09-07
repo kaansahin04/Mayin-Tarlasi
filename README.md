@@ -8,8 +8,9 @@
 1) Projeyi bilgisayarınıza <b>clone</b>'layın.
 2) Eclipse uygulamasında <strong>New>Project>Java Project</strong> şeklinde ilerleyip yeni proje oluşturun.
 3) Oluşturduğunuz projedeki <b>src</b> klasörüne <strong>Sağ Tık>Import>General>File System</strong> şeklinde ilerleyin.
-4) Projeyi <b>clone</b>'ladığınızda bilgisayarınızda oluşmuş olan klasörü seçip import işlemini tamamlayın.
-5) <b>Main.java</b> dosyasını çalıştırın.
+4) Projeyi <b>clone</b>'ladığınızda bilgisayarınızda oluşmuş olan klasörü seçip <b>src</b> klasörüne olan import işlemini tamamlayın.
+   <br><i><u>Not:</u></i>.java ve .png dosyaları aynı klasör altında gelecek, bu klasörün adı "src" olmalı!
+6) <b>Main.java</b> dosyasını çalıştırın.
 <p>İyi oyunlar...</p>
 
 ## Durum
