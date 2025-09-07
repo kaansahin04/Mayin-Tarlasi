@@ -7,3 +7,4 @@
 ## Durum
 ![Oyun Boyutu](https://img.shields.io/badge/5%2C19%20KB-gray?style=flat&logo=github&label=game%20size&color=green)
 ![Resimler Boyutu](https://img.shields.io/badge/2%2C26%20KB-gray?style=flat&logo=github&label=pic%20size&color=green)
+![Programlama Dili](https://img.shields.io/github/languages/top/kaansahin04/Mayin-Tarlasi?color=%23A49410)
